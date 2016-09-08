@@ -1,4 +1,17 @@
+v1.0.3 (08/09/2016)
+===================
+## features
+- CHANGELOG
+   - new changes
+
+v1.0.2 (08/09/2016)
+===================
+## hotfixes
+- README
+   - new message
+
 v1.0.1 (12/08/2016)
+===================
 ## features
 - docker
    - new changes 
