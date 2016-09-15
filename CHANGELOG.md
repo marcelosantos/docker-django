@@ -1,3 +1,9 @@
+v1.0.4 (15/09/2016)
+===================
+## features
+- CHANGELOG
+   - new changes readme
+
 v1.0.3 (08/09/2016)
 ===================
 ## features
