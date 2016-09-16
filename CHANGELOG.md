@@ -1,3 +1,9 @@
+v1.0.5 (16/09/2016)
+===================
+## features
+- Dockerfile
+   - add maintainer information name
+
 v1.0.4 (15/09/2016)
 ===================
 ## features
